@@ -4,7 +4,8 @@
 
 This project is a conversion of the original DIO challenge project made at the Ri Happy bootcamp - Front-end from Zero #2 in React + Vite
 
-- [@DIO](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido)
+- [@DIO](https://www.dio.me)
+- [@DIO_GitHub](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido)
 
 ## React + TypeScript + Vite
 
