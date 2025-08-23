@@ -1,8 +1,8 @@
 # Project Inverted World 
 
-###Original Project DIO.
+### Original Project DIO.
 
-This project is a conversion of the original DIO challenge project made at the Ri Happy bootcamp - Front-end from Zero #2 in React + Vite
+This project is a conversion of the original html + css + js project from the DIO challenge done at the Ri Happy bootcamp - Front-end from Zero #2 in React + Vite
 
 - [@DIO](https://www.dio.me)
 - [@DIO_GitHub](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido)
@@ -15,6 +15,11 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Imagens
+
+<img width="400" height="3794" alt="Mundo Normal" src="https://github.com/user-attachments/assets/7ff92374-faaa-4f53-a11d-3ae1b76faa38" />
+<img width="400" height="3794" alt="Mundo Invertido" src="https://github.com/user-attachments/assets/1714710a-8597-4e94-a60f-9795f8fbe608" />
 
 ### Expanding the ESLint configuration
 
